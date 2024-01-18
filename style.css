@@ -1,0 +1,10 @@
+.text{
+    margin-bottom: 20px;
+    gap: 20px;
+}
+ul li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+    ;
+}
